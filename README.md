@@ -57,13 +57,14 @@ The project follows a layered data warehouse architecture:
 
 ## 📎 Key Files
 
-| File                               | Description                                 |
-| ---------------------------------- | ------------------------------------------- |
-| `DATA WAREHOUSE LAYER DESC.drawio` | Layer-wise architecture overview diagram   |
-| `Dataflow and Relationship.drawio` | ETL flow and table relationship diagram     |
-| `TABLE OVERVIEW.drawio`            | Table structures and star schema overview  |
-| `*.csv` files                      | Raw data sources for ETL pipeline          |
-| `*.sql` files                      | Scripts for creating/loading tables & views |
+| File                               | 
+| ---------------------------------- | 
+| `crm.cust_info`                    | 
+| `crm.prd_info`                     | 
+| `crm.sales_details`                | 
+| `px_cat_g1v2                       |
+| `loc_a101                          | 
+| `Cust_az12                         |
 
 ---
 
